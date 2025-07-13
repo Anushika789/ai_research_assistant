@@ -1,3 +1,4 @@
+
 AI Research Assistant:
 A modular, user-friendly Streamlit web application for document analysis, summarization, semantic search, question answering, and logic challenge generation.
 Built with Python, Hugging Face Transformers, Sentence Transformers, pandas, NumPy, and pytesseract for robust data and document processing.
