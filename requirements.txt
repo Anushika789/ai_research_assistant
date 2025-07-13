@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+wikipedia
+pdfplumber
+sentence-transformers
+faiss-cpu
+python-multipart
+pytesseract
+pymupdf
+transformers
+python-docx
+
